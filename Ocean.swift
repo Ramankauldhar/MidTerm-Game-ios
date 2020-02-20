@@ -27,7 +27,7 @@ class Ocean : GameObject
     
     override func Reset()
     {
-        self.position.y = 750
+        self.position.y = 751
     }
     
     override func Start()
